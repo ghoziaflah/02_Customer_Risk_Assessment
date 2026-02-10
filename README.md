@@ -1,2 +1,2 @@
 # Transaction-Based-Customer-Risk-Assessment
-Desc1
+Machine Learning Bootcamp Project - Asah led by Dicoding & accenture
